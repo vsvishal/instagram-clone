@@ -1,4 +1,4 @@
-Instagram-clone web application using React.js and firebse.
+Instagram-clone web application using React.js and firebase.
 
 app link: 
 https://instagram-clone-4ef01.web.app/
